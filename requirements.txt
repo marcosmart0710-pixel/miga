@@ -1,2 +1,2 @@
-streamlit
-langchain-groq
+streamlit>=1.40,<2
+langchain-groq>=0.3,<2
